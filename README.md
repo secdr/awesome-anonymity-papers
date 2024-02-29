@@ -4,7 +4,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 
 ## Awesome list criteria
 
-- A list of **anonymity papers** published from 2012 to 2024.
+> A list of **anonymity papers** published from 2012 to 2024.
 
 ## Contents
 
@@ -13,6 +13,9 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 - FOCI (2024), **Extended Abstract: Traffic Splitting for Pluggable Transports**, [PDF](https://petsymposium.org/foci/2024/foci-2024-0004.pdf)
 - Wireless Networks (2024), **Updated exploration of the Tor network: advertising, availability and protocols of onion services**, [PDF](https://link.springer.com/article/10.1007/s11276-024-03679-4)
 - IEEE Transactions on Information Forensics and Security (2023), **Exploring Uncharted Waters of Website Fingerprinting**, [PDF](https://ieeexplore.ieee.org/abstract/document/10356094)
+- IEEE International Conference on Knowledge Innovation and Invention (ICKII) (2018), **Tor Traffic Classification from Raw Packet Header using Convolutional Neural Network**, [PDF](https://ieeexplore.ieee.org/abstract/document/8569113)
+- IEEE Conference on Computer Communications Workshops (2019), **FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition**, [PDF](https://ieeexplore.ieee.org/abstract/document/8845315)
+- IEEE International Conference on Big Data (2017), **Tor traffic analysis and detection via machine learning techniques**, [PDF](https://ieeexplore.ieee.org/abstract/document/8258487)
 
 ***
 
