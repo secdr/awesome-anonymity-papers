@@ -12,7 +12,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
   - [Table of Contents](#table-of-contents)
   - [Awesome list criteria](#awesome-list-criteria)
   - [Papers](#papers)
-    - [By Journal \& Conferences](#by-journal--conferences)
+    - [By Journals \& Conferences](#by-journals--conferences)
     - [By Time](#by-time)
       - [2024](#2024)
       - [2023](#2023)
@@ -39,7 +39,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 
 ## Papers
 
-### By Journal & Conferences
+### By Journals & Conferences
 
 + #### USENIX Security
   - 1971 | *xxxxxxxxxxxxxxxxxxxx*, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, [`PDF`](https://arxiv.org/pdf/0000.04528.pdf)
