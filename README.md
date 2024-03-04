@@ -7,9 +7,9 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 </div>
 
 
-# Table of Contents
+## Table of Contents
 - [Awesome Anonymity Papers](#awesome-anonymity-papers)
-- [Table of Contents](#table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Awesome list criteria](#awesome-list-criteria)
   - [Papers](#papers)
     - [By Journal \& Conferences](#by-journal--conferences)
