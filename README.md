@@ -53,6 +53,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
   - 2024 | *Discovering Command and Control (C2) Channels on Tor and Public Networks Using Reinforcement Learning*, [`PDF`](https://arxiv.org/pdf/2402.09200.pdf)
   - 2024 | FOCI, *Extended Abstract: Traffic Splitting for Pluggable Transports*, [`PDF`](https://petsymposium.org/foci/2024/foci-2024-0004.pdf)
   - 2024 | Wireless Networks, *Updated exploration of the Tor network: advertising, availability and protocols of onion services*, [`PDF`](https://link.springer.com/article/10.1007/s11276-024-03679-4)
+  - 2024 | N/A, *GFWeb: Measuring the Great Firewall’s Web Censorship at Scale*, [`PDF`](https://www3.cs.stonybrook.edu/~mikepo/papers/gfweb.sec24.pdf)
   - 2023 | IEEE Transactions on Information Forensics and Security, *Exploring Uncharted Waters of Website Fingerprinting*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/10356094)
   - 2019 | IEEE Conference on Computer Communications Workshops, *FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/8845315)
   - 2018 | IEEE International Conference on Knowledge Innovation and Invention (ICKII), *Tor Traffic Classification from Raw Packet Header using Convolutional Neural Network*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/8569113)
@@ -68,6 +69,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 - *Discovering Command and Control (C2) Channels on Tor and Public Networks Using Reinforcement Learning*, [`PDF`](https://arxiv.org/pdf/2402.09200.pdf)
 - FOCI, *Extended Abstract: Traffic Splitting for Pluggable Transports*, [`PDF`](https://petsymposium.org/foci/2024/foci-2024-0004.pdf)
 - Wireless Networks, *Updated exploration of the Tor network: advertising, availability and protocols of onion services*, [`PDF`](https://link.springer.com/article/10.1007/s11276-024-03679-4)
+- N/A, *GFWeb: Measuring the Great Firewall’s Web Censorship at Scale*, [`PDF`](https://www3.cs.stonybrook.edu/~mikepo/papers/gfweb.sec24.pdf)
 
 #### 2023
 - IEEE Transactions on Information Forensics and Security, *Exploring Uncharted Waters of Website Fingerprinting*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/10356094)
