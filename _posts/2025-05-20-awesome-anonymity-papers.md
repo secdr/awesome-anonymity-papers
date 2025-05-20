@@ -4,6 +4,8 @@ title: "A list of anonymity papers published from 2012 to 2025"
 categories: papers
 ---
 
+We believe that there exist *classic* anonymity papers which are worth reading regardless of their application domain. Rather than providing overwhelming amount of papers, we would like to provide a *curated list* of the awesome anonymity papers which are considered as *must-reads* in certain research domains.
+
 <p align="center">
   <a href="https://github.com/secdr/awesome-anonymity-papers/blob/c3ef16841398c86a56259765c5106a82e2f43ead/LICENSE" target="_blank">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg">
