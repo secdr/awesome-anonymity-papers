@@ -14,7 +14,7 @@ categories: papers
 </p>
 
 <div style="text-align: center">
- <img src="/assets/cyber_security.jpg" atl="banner"/>
+ <img src="{{ site.baseurl }}/assets/cyber_security.jpg" atl="banner"/>
 </div>
 
 ## Table of Contents
