@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: The SECDR Team Intro
 permalink: /about/
 ---
 
