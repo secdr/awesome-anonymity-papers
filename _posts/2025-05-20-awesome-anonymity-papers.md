@@ -1,6 +1,9 @@
 ---
 layout: post
+title: "A list of anonymity papers published from 2012 to 2025"
+categories: papers
 ---
+
 <p align="center">
   <a href="https://github.com/secdr/awesome-anonymity-papers/blob/c3ef16841398c86a56259765c5106a82e2f43ead/LICENSE" target="_blank">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg">
