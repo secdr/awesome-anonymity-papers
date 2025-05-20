@@ -1,4 +1,15 @@
-{% comment %}
-  Use this to insert markup before the closing body tag.
-  For example, scripts that need to be executed after the document has finished loading.
-{% endcomment %}
+<div class="sub-footer">
+  <span id="sf-toggle" onclick="toggleSubFooter()">
+    <span class="sf-toggle-icon"></span>
+  </span>
+  <div id="sub-footer-container">
+    <div><small>Awesome Anonymity Papers by SECDR</small></div>
+  </div>
+</div>
+
+<script>
+  function toggleSubFooter() {
+    siteFooter = document.querySelector(".site-footer");
+    siteFooter.classList.toggle("sub-footer-hidden");
+  }
+</script>

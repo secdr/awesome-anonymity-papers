@@ -2,11 +2,10 @@
 # ------------------
 #
 title: Awesome Anonymity Papers
-#
 author:
   name: Qiang Zhang
   email: qzhang@stu.scu.edu.cn
-#
+
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
