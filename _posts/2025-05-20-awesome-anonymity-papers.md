@@ -310,4 +310,4 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ## License
 
-The source-code is licensed under the MIT license. See [LICENSE](../LICENSE).
+The source-code is licensed under the MIT license. See [LICENSE](https://github.com/secdr/awesome-anonymity-papers/blob/e1f586ef57fea25ca1592e5a7e33a57487228d61/LICENSE).
