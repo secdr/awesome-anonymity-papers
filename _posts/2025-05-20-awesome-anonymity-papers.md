@@ -2,6 +2,14 @@
 layout: post
 title: "A list of anonymity papers published from 2012 to 2025"
 categories: papers
+author:
+- Qiang Zhang
+- Cheng Huang
+- Shuyi Jiang
+- Chengxi Zhou
+- Yutong Huang
+meta: "Springfield"
+modified_date: 2025-05-20
 ---
 
 We believe that there exist *classic* anonymity papers which are worth reading regardless of their application domain. Rather than providing overwhelming amount of papers, we would like to provide a *curated list* of the awesome anonymity papers which are considered as *must-reads* in certain research domains.
