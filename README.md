@@ -45,7 +45,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 
 ## Awesome list criteria
 
-> A list of **anonymity papers** published from 2012 to 2024.
+> A list of **anonymity papers** published from 2012 to 2025.
 
 ## Papers
 
@@ -53,13 +53,13 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 
 - #### USENIX Security
 
-  - 1971 | *xxxxxxxxxxxxxxxxxxxx*, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, [`PDF`](https://arxiv.org/pdf/0000.04528.pdf)
+  - 2025 | *xxxxxxxxxxxxxxxxxxxx*, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, [`PDF`](https://arxiv.org/pdf/0000.04528.pdf)
 - #### S&P
 
-  - 1971 | *xxxxxxxxxxxxxxxxxxxx*, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, [`PDF`](https://arxiv.org/pdf/0000.04528.pdf)
+  - 2025 | *xxxxxxxxxxxxxxxxxxxx*, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, [`PDF`](https://arxiv.org/pdf/0000.04528.pdf)
 - #### CCS
 
-  - 1971 | *xxxxxxxxxxxxxxxxxxxx*, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, [`PDF`](https://arxiv.org/pdf/0000.04528.pdf)
+  - 2025 | *xxxxxxxxxxxxxxxxxxxx*, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, [`PDF`](https://arxiv.org/pdf/0000.04528.pdf)
 - #### NDSS
 
   - 2024 | *MirageFlow: A New Bandwidth Inflation Attack on Tor*, [`PDF`](https://www.ndss-symposium.org/wp-content/uploads/2024-1133-paper.pdf)
