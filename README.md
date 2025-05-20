@@ -14,7 +14,7 @@
 We believe that there exist *classic* anonymity papers which are worth reading regardless of their application domain. Rather than providing overwhelming amount of papers, we would like to provide a *curated list* of the awesome anonymity papers which are considered as *must-reads* in certain research domains.
 
 <div style="text-align: center">
- <img src="{{ site.baseurl }}/assets/cyber_security.jpg" atl="banner"/>
+ <img src="assets/cyber_security.jpg" atl="banner"/>
 </div>
 
 ## Table of Contents
