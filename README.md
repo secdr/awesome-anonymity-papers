@@ -73,10 +73,10 @@ We believe that there exist *classic* anonymity papers which are worth reading r
   - 2024 | ICICS, *TorHunter: A Lightweight Method for Efficient Identification of Obfuscated Tor Traffic Through Unsupervised Pre-training*, [`PDF`](https://link.springer.com/chapter/10.1007/978-981-97-8801-9_1)
   - 2023 | Computers & Security, *Detection of Obfuscated Tor Traffic Based on Bidirectional Generative Adversarial Networks and Vision Transform*, [`PDF`](https://doi.org/10.1016/j.cose.2023.103512)
   - 2023 | IEEE Transactions on Information Forensics and Security, *Exploring Uncharted Waters of Website Fingerprinting*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/10356094)
+  - 2021 | Security and Communication Networks, *Obfuscated Tor Traffic Identification Based on Sliding Window*, [`PDF`](https://doi.org/10.1155/2021/5587837)
   - 2021 | ICEA, *Towards Comprehensive Analysis of Tor Hidden Service Access Behavior Identification Under Obfs4 Scenario*, [`PDF`](https://doi.org/10.1145/3491396.3506532)
   - 2019 | ICDIS, *Detection of Tor Traffic Hiding Under Obfs4 Protocol Based on Two-Level Filtering*, [`PDF`](https://ieeexplore.ieee.org/document/8751402)
   - 2019 | IEEE Conference on Computer Communications Workshops, *FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/8845315)
-  - 2021 | Security and Communication Networks, *Obfuscated Tor Traffic Identification Based on Sliding Window*, [`PDF`](https://doi.org/10.1155/2021/5587837)
   - 2018 | IEEE International Conference on Knowledge Innovation and Invention (ICKII), *Tor Traffic Classification from Raw Packet Header using Convolutional Neural Network*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/8569113)
   - 2017 | IEEE International Conference on Big Data, *Tor traffic analysis and detection via machine learning techniques*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/8258487)
 
