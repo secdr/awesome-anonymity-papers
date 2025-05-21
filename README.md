@@ -64,6 +64,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 
   - 2024 | *MirageFlow: A New Bandwidth Inflation Attack on Tor*, [`PDF`](https://www.ndss-symposium.org/wp-content/uploads/2024-1133-paper.pdf)
   - 2024 | *Flow Correlation Attacks on Tor Onion Service Sessions with Sliding Subset Sum*, [`PDF`](https://dx.doi.org/10.14722/ndss.2024.24337)
+  - 2021 | *Detecting Tor Bridge from Sampled Traffic in Backbone Networks*, [`PDF`](https://www.ndss-symposium.org/wp-content/uploads/madweb2021_23011_paper.pdf)
 - #### Other
 
   - 2024 | *Discovering Command and Control (C2) Channels on Tor and Public Networks Using Reinforcement Learning*, [`PDF`](https://arxiv.org/pdf/2402.09200.pdf)
@@ -73,8 +74,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
   - 2024 | ICICS, *TorHunter: A Lightweight Method for Efficient Identification of Obfuscated Tor Traffic Through Unsupervised Pre-training*, [`PDF`](https://link.springer.com/chapter/10.1007/978-981-97-8801-9_1)
   - 2023 | Computers & Security, *Detection of Obfuscated Tor Traffic Based on Bidirectional Generative Adversarial Networks and Vision Transform*, [`PDF`](https://doi.org/10.1016/j.cose.2023.103512)
   - 2023 | IEEE Transactions on Information Forensics and Security, *Exploring Uncharted Waters of Website Fingerprinting*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/10356094)
-  - 2021 | ICEA, *Towards Comprehensive Analysis of Tor Hidden Service Access Behavior Identification Under Obfs4 Scenario*, [`PDF`](https://doi.org/10.1145/3491396.3506532)
-  - 2021 | Security and Communication Networks, *Obfuscated Tor Traffic Identification Based on Sliding Window*, [`PDF`](https://doi.org/10.1155/2021/5587837)
+  - 2021 | ICEA, *Towards Comprehensive Analysis of Tor Hidden Service Access Behavior Identification Under Obfs4 Scenario*, [`PDF`](https://dl.acm.org/doi/pdf/10.1145/3491396.3506532)
   - 2019 | ICDIS, *Detection of Tor Traffic Hiding Under Obfs4 Protocol Based on Two-Level Filtering*, [`PDF`](https://ieeexplore.ieee.org/document/8855280)
   - 2019 | IEEE Conference on Computer Communications Workshops, *FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/8845315)
   - 2018 | IEEE International Conference on Knowledge Innovation and Invention (ICKII), *Tor Traffic Classification from Raw Packet Header using Convolutional Neural Network*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/8569113)
@@ -86,15 +86,19 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 
 #### 2024
 
-- NDSS, *MirageFlow: A New Bandwidth Inflation Attack on Tor*, [`PDF`](https://www.ndss-symposium.org/wp-content/uploads/2024-1133-paper.pdf)  
+- NDSS, *MirageFlow: A New Bandwidth Inflation Attack on Tor*, [`PDF`](https://www.ndss-symposium.org/wp-content/uploads/2024-1133-paper.pdf)
+- NDSS, *Flow Correlation Attacks on Tor Onion Service Sessions with Sliding Subset Sum*, [`PDF`](https://dx.doi.org/10.14722/ndss.2024.24337)  
 - *Discovering Command and Control (C2) Channels on Tor and Public Networks Using Reinforcement Learning*, [`PDF`](https://arxiv.org/pdf/2402.09200.pdf)
 - FOCI, *Extended Abstract: Traffic Splitting for Pluggable Transports*, [`PDF`](https://petsymposium.org/foci/2024/foci-2024-0004.pdf)
 - Wireless Networks, *Updated exploration of the Tor network: advertising, availability and protocols of onion services*, [`PDF`](https://link.springer.com/article/10.1007/s11276-024-03679-4)
 - N/A, *GFWeb: Measuring the Great Firewall’s Web Censorship at Scale*, [`PDF`](https://www3.cs.stonybrook.edu/~mikepo/papers/gfweb.sec24.pdf)
+- ICICS, *TorHunter: A Lightweight Method for Efficient Identification of Obfuscated Tor Traffic Through Unsupervised Pre-training*, [`PDF`](https://link.springer.com/chapter/10.1007/978-981-97-8801-9_1)
+
 
 #### 2023
 
 - IEEE Transactions on Information Forensics and Security, *Exploring Uncharted Waters of Website Fingerprinting*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/10356094)
+- Computers & Security, *Detection of Obfuscated Tor Traffic Based on Bidirectional Generative Adversarial Networks and Vision Transform*, [`PDF`](https://doi.org/10.1016/j.cose.2023.103512)
 
 #### 2022
 
@@ -102,8 +106,9 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 
 #### 2021
 
-- xxxxxxxxxxxxxxxxxxxxxxxx, *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, [`PDF`](https://arxiv.org/pdf/0000.04528.pdf)
-
+- NDSS, *Detecting Tor Bridge from Sampled Traffic in Backbone Networks*, [`PDF`](https://www.ndss-symposium.org/wp-content/uploads/madweb2021_23011_paper.pdf)
+- ICEA, *Towards Comprehensive Analysis of Tor Hidden Service Access Behavior Identification Under Obfs4 Scenario*, [`PDF`](https://dl.acm.org/doi/pdf/10.1145/3491396.3506532)
+  
 #### 2020
 
 - xxxxxxxxxxxxxxxxxxxxxxxx, *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, [`PDF`](https://arxiv.org/pdf/0000.04528.pdf)
@@ -111,6 +116,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 #### 2019
 
 - IEEE Conference on Computer Communications Workshops, *FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/8845315)
+- ICDIS, *Detection of Tor Traffic Hiding Under Obfs4 Protocol Based on Two-Level Filtering*, [`PDF`](https://ieeexplore.ieee.org/document/8855280)
 
 #### 2018
 
