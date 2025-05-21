@@ -63,6 +63,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 - #### NDSS
 
   - 2024 | *MirageFlow: A New Bandwidth Inflation Attack on Tor*, [`PDF`](https://www.ndss-symposium.org/wp-content/uploads/2024-1133-paper.pdf)
+  - 2024 | *Flow Correlation Attacks on Tor Onion Service Sessions with Sliding Subset Sum*, [`PDF`](https://dx.doi.org/10.14722/ndss.2024.24337)
 - #### Other
 
   - 2024 | *Discovering Command and Control (C2) Channels on Tor and Public Networks Using Reinforcement Learning*, [`PDF`](https://arxiv.org/pdf/2402.09200.pdf)
