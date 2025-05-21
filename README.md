@@ -75,7 +75,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
   - 2023 | IEEE Transactions on Information Forensics and Security, *Exploring Uncharted Waters of Website Fingerprinting*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/10356094)
   - 2021 | ICEA, *Towards Comprehensive Analysis of Tor Hidden Service Access Behavior Identification Under Obfs4 Scenario*, [`PDF`](https://doi.org/10.1145/3491396.3506532)
   - 2021 | Security and Communication Networks, *Obfuscated Tor Traffic Identification Based on Sliding Window*, [`PDF`](https://doi.org/10.1155/2021/5587837)
-  - 2019 | ICDIS, *Detection of Tor Traffic Hiding Under Obfs4 Protocol Based on Two-Level Filtering*, [`PDF`](https://ieeexplore.ieee.org/document/8751402)
+  - 2019 | ICDIS, *Detection of Tor Traffic Hiding Under Obfs4 Protocol Based on Two-Level Filtering*, [`PDF`](https://ieeexplore.ieee.org/document/8855280)
   - 2019 | IEEE Conference on Computer Communications Workshops, *FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/8845315)
   - 2018 | IEEE International Conference on Knowledge Innovation and Invention (ICKII), *Tor Traffic Classification from Raw Packet Header using Convolutional Neural Network*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/8569113)
   - 2017 | IEEE International Conference on Big Data, *Tor traffic analysis and detection via machine learning techniques*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/8258487)
