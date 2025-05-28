@@ -65,8 +65,11 @@ We believe that there exist *classic* anonymity papers which are worth reading r
   - 2024 | *MirageFlow: A New Bandwidth Inflation Attack on Tor*, [`PDF`](https://www.ndss-symposium.org/wp-content/uploads/2024-1133-paper.pdf)
   - 2024 | *Flow Correlation Attacks on Tor Onion Service Sessions with Sliding Subset Sum*, [`PDF`](https://dx.doi.org/10.14722/ndss.2024.24337)
   - 2021 | *Detecting Tor Bridge from Sampled Traffic in Backbone Networks*, [`PDF`](https://www.ndss-symposium.org/wp-content/uploads/madweb2021_23011_paper.pdf)
-- #### Other
 
+- #### Other
+  - 2025 | *MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification*, [`PDF`](https://arxiv.org/pdf/2412.15306)
+  - 2024 | *NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba* [`PDF`](https://arxiv.org/pdf/2405.11449)
+  - 2024 | *TrafficGPT: Breaking the Token Barrier for Efficient Long Traffic Analysis and Generation*, [`PDF`](https://www.arxiv.org/pdf/2403.05822)
   - 2024 | *Discovering Command and Control (C2) Channels on Tor and Public Networks Using Reinforcement Learning*, [`PDF`](https://arxiv.org/pdf/2402.09200.pdf)
   - 2024 | FOCI, *Extended Abstract: Traffic Splitting for Pluggable Transports*, [`PDF`](https://petsymposium.org/foci/2024/foci-2024-0004.pdf)
   - 2024 | Wireless Networks, *Updated exploration of the Tor network: advertising, availability and protocols of onion services*, [`PDF`](https://link.springer.com/article/10.1007/s11276-024-03679-4)
@@ -86,7 +89,6 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 
 #### 2025
 - AAAI, *MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification*, [`PDF`](https://arxiv.org/pdf/2412.15306)
-- ICNP, *NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba* [`PDF`](https://arxiv.org/pdf/2405.11449)
 
 #### 2024
 
@@ -98,6 +100,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 - N/A, *GFWeb: Measuring the Great Firewall’s Web Censorship at Scale*, [`PDF`](https://www3.cs.stonybrook.edu/~mikepo/papers/gfweb.sec24.pdf)
 - ICICS, *TorHunter: A Lightweight Method for Efficient Identification of Obfuscated Tor Traffic Through Unsupervised Pre-training*, [`PDF`](https://link.springer.com/chapter/10.1007/978-981-97-8801-9_1)
 - ArXiv, *TrafficGPT: Breaking the Token Barrier for Efficient Long Traffic Analysis and Generation*, [`PDF`](https://www.arxiv.org/pdf/2403.05822)
+- ICNP, *NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba* [`PDF`](https://arxiv.org/pdf/2405.11449)
 
 
 #### 2023
