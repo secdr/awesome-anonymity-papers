@@ -84,6 +84,10 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 
 ### By Time
 
+#### 2025
+- AAAI, *MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification*, [`PDF`](https://arxiv.org/pdf/2412.15306)
+- ICNP, *NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba* [`PDF`](https://arxiv.org/pdf/2405.11449)
+
 #### 2024
 
 - NDSS, *MirageFlow: A New Bandwidth Inflation Attack on Tor*, [`PDF`](https://www.ndss-symposium.org/wp-content/uploads/2024-1133-paper.pdf)
@@ -93,6 +97,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 - Wireless Networks, *Updated exploration of the Tor network: advertising, availability and protocols of onion services*, [`PDF`](https://link.springer.com/article/10.1007/s11276-024-03679-4)
 - N/A, *GFWeb: Measuring the Great Firewall’s Web Censorship at Scale*, [`PDF`](https://www3.cs.stonybrook.edu/~mikepo/papers/gfweb.sec24.pdf)
 - ICICS, *TorHunter: A Lightweight Method for Efficient Identification of Obfuscated Tor Traffic Through Unsupervised Pre-training*, [`PDF`](https://link.springer.com/chapter/10.1007/978-981-97-8801-9_1)
+- ArXiv, *TrafficGPT: Breaking the Token Barrier for Efficient Long Traffic Analysis and Generation*, [`PDF`](https://www.arxiv.org/pdf/2403.05822)
 
 
 #### 2023
