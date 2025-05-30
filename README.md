@@ -75,6 +75,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
   - 2024 | Wireless Networks, *Updated exploration of the Tor network: advertising, availability and protocols of onion services*, [`PDF`](https://link.springer.com/article/10.1007/s11276-024-03679-4)
   - 2024 | N/A, *GFWeb: Measuring the Great Firewall’s Web Censorship at Scale*, [`PDF`](https://www3.cs.stonybrook.edu/~mikepo/papers/gfweb.sec24.pdf)
   - 2024 | ICICS, *TorHunter: A Lightweight Method for Efficient Identification of Obfuscated Tor Traffic Through Unsupervised Pre-training*, [`PDF`](https://link.springer.com/chapter/10.1007/978-981-97-8801-9_1)
+  - 2024 | Communications of the ACM, *OpenVPN is Open to VPN Fingerprinting*, [`PDF`](https://dl.acm.org/doi/10.1145/3618117)
   - 2023 | Computers & Security, *Detection of Obfuscated Tor Traffic Based on Bidirectional Generative Adversarial Networks and Vision Transform*, [`PDF`](https://doi.org/10.1016/j.cose.2023.103512)
   - 2023 | IEEE Transactions on Information Forensics and Security, *Exploring Uncharted Waters of Website Fingerprinting*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/10356094)
   - 2021 | ICEA, *Towards Comprehensive Analysis of Tor Hidden Service Access Behavior Identification Under Obfs4 Scenario*, [`PDF`](https://dl.acm.org/doi/pdf/10.1145/3491396.3506532)
@@ -101,6 +102,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 - ICICS, *TorHunter: A Lightweight Method for Efficient Identification of Obfuscated Tor Traffic Through Unsupervised Pre-training*, [`PDF`](https://link.springer.com/chapter/10.1007/978-981-97-8801-9_1)
 - ArXiv, *TrafficGPT: Breaking the Token Barrier for Efficient Long Traffic Analysis and Generation*, [`PDF`](https://www.arxiv.org/pdf/2403.05822)
 - ICNP, *NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba* [`PDF`](https://arxiv.org/pdf/2405.11449)
+- Communications of the ACM, *OpenVPN is Open to VPN Fingerprinting*, [`PDF`](https://dl.acm.org/doi/10.1145/3618117)
 
 
 #### 2023
