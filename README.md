@@ -90,6 +90,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 ### By Time
 
 #### 2025
+- TIFS, *Bottom Aggregating, Top Separating: An Aggregator and Separator Network for Encrypted Traffic Understanding*, [`PDF`](https://doi.org/10.1109/TIFS.2025.3529316)
 - AAAI, *MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification*, [`PDF`](https://arxiv.org/pdf/2412.15306)
 
 #### 2024
