@@ -67,6 +67,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
   - 2021 | *Detecting Tor Bridge from Sampled Traffic in Backbone Networks*, [`PDF`](https://www.ndss-symposium.org/wp-content/uploads/madweb2021_23011_paper.pdf)
 
 - #### Other
+  - 2025 | *Bottom Aggregating, Top Separating: An Aggregator and Separator Network for Encrypted Traffic Understanding*, [`PDF`](https://doi.org/10.1109/TIFS.2025.3529316)
   - 2025 | *MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification*, [`PDF`](https://arxiv.org/pdf/2412.15306)
   - 2024 | *NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba* [`PDF`](https://arxiv.org/pdf/2405.11449)
   - 2024 | *TrafficGPT: Breaking the Token Barrier for Efficient Long Traffic Analysis and Generation*, [`PDF`](https://www.arxiv.org/pdf/2403.05822)
