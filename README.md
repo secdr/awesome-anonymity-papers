@@ -67,6 +67,10 @@ We believe that there exist *classic* anonymity papers which are worth reading r
   - 2021 | *Detecting Tor Bridge from Sampled Traffic in Backbone Networks*, [`PDF`](https://www.ndss-symposium.org/wp-content/uploads/madweb2021_23011_paper.pdf)
 
 - #### Other
+  
+  - 2025 | *A Detection Method for Malware Communication Traffic via Encrypted Traffic Analysis*, [`PDF`](https://doi.org/10.1109/JIOT.2025.3577245)
+  - 2025 | *Multi-ARCL: Multimodal adaptive relay-based distributed continual learning for encrypted traffic classification*, [`PDF`](10.1016/j.jpdc.2025.105083)
+  - 2025 | *TraGe: A Generic Packet Representation for Traffic Classification Based on Header-Payload Differences*, [`PDF`](10.48550/arXiv.2506.14151)
   - 2025 | *Bottom Aggregating, Top Separating: An Aggregator and Separator Network for Encrypted Traffic Understanding*, [`PDF`](https://doi.org/10.1109/TIFS.2025.3529316)
   - 2025 | *MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification*, [`PDF`](https://arxiv.org/pdf/2412.15306)
   - 2024 | *NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba* [`PDF`](https://arxiv.org/pdf/2405.11449)
@@ -84,6 +88,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
   - 2019 | IEEE Conference on Computer Communications Workshops, *FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/8845315)
   - 2018 | IEEE International Conference on Knowledge Innovation and Invention (ICKII), *Tor Traffic Classification from Raw Packet Header using Convolutional Neural Network*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/8569113)
   - 2017 | IEEE International Conference on Big Data, *Tor traffic analysis and detection via machine learning techniques*, [`PDF`](https://ieeexplore.ieee.org/abstract/document/8258487)
+  
 
 ***
 
@@ -92,6 +97,9 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 #### 2025
 - TIFS, *Bottom Aggregating, Top Separating: An Aggregator and Separator Network for Encrypted Traffic Understanding*, [`PDF`](https://doi.org/10.1109/TIFS.2025.3529316)
 - AAAI, *MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification*, [`PDF`](https://arxiv.org/pdf/2412.15306)
+- IOT| *A Detection Method for Malware Communication Traffic via Encrypted Traffic Analysis*, [`PDF`](https://doi.org/10.1109/JIOT.2025.3577245)
+- JPDC | *Multi-ARCL: Multimodal adaptive relay-based distributed continual learning for encrypted traffic classification*, [`PDF`](10.1016/j.jpdc.2025.105083)
+- ArXiv | *TraGe: A Generic Packet Representation for Traffic Classification Based on Header-Payload Differences*, [`PDF`](10.48550/arXiv.2506.14151)
 
 #### 2024
 
@@ -283,7 +291,7 @@ Others
 - [Qian Wang](http://nisplab.whu.edu.cn/people.html) (Wuhan University/China)
 - [Min Yang](https://cs.fudan.edu.cn/3e/d7/c25921a278231/page.htm) (Fudan University/China)
 - [Shuguang Cui](https://sse.cuhk.edu.cn/en/faculty/cuishuguang) (The Chinese University of Hong Kong/China)
-</details>
+  </details>
   
 <details>
 <summary>
