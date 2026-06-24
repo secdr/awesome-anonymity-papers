@@ -829,7 +829,7 @@ Special thanks to everyone who contributed to this project.
 | Name       | Bio        |
 | :--------: | :--------: |
 | [Qiang Zhang](mailto:qzhang@stu.scu.edu.cn) | PhD Student @SCU |
-| [Chenxin Zhou](mailto:tovey_zhou@foxmail.com) | PhD Student @ Das-Lab, SCU |
+| [Chenxin Zhou](mailto:tovey_zhou@foxmail.com) | PhD Student @ DAS-Lab, SCU |
 
 ## Contact & Feedback
 
