@@ -1,5 +1,5 @@
 <h1 align="center">
-  Awesome Anonymity Papers
+  Awesome Anonymity (Related) Papers
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 
 ## Table of Contents
 
-- [Awesome Anonymity Papers](#awesome-anonymity-papers)
+- [Awesome Anonymity (Related) Papers](#awesome-anonymity-related-papers)
   - [Table of Contents](#table-of-contents)
   - [Awesome list criteria](#awesome-list-criteria)
   - [Papers](#papers)
@@ -56,7 +56,7 @@ We believe that there exist *classic* anonymity papers which are worth reading r
 
 ## Awesome list criteria
 
-> A list of **anonymity papers** published from 2012 to 2026.
+> A list of **anonymity** related papers published from 2012 to 2026.
 
 ## Papers
 
